@@ -1,0 +1,15 @@
+{
+  "name": "gh-pages-poc",
+  "version": "1.0.0",
+  "author": "Guillermo E. Mazzoni",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
